@@ -1,7 +1,7 @@
 ### Hi there 👋
 16, pursuing a wide knowledge of anything tech :)
 
--   🔭 I’m currently working on my A-Level CS Project. It's a 2D Space Game using [Ion-Phaser.js](https://github.com/proyecto26/ion-phaser) (combines phaser and web frameworks like React, Angular or Vue.
+-   🔭 I’m currently working on my A-Level CS Project. It's a 2D Space Game using [Ion-Phaser.js](https://github.com/proyecto26/ion-phaser) (combines phaser and web frameworks like React, Angular or Vue).
 -   🌱 I’m currently learning Phaser and React for my A-Level Project.
 
 ---
