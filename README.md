@@ -4,6 +4,8 @@
 -   🔭 I’m currently working on my A-Level CS Project. It's a 2D Space Game using Ion-Phaser.js
 -   🌱 I’m currently learning Phaser and React for my A-Level Project
 
+---
+
 - Frontend:
   - React.js/Next.js
   - Typescript
