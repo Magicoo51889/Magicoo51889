@@ -7,16 +7,16 @@
 ---
 
 - #### 💻Frontend:
-  - [React.js](https://reactjs.org/)/[Next.js](https://nextjs.org/)
-  - [Typescript](https://www.typescriptlang.org/)
-  - [Chakra for CSS](https://chakra-ui.com/)
-  - Basic HTML/JS/CSS
+  - 🧪[React.js](https://reactjs.org/)/[Next.js](https://nextjs.org/)
+  - ⌨[Typescript](https://www.typescriptlang.org/)
+  - 🖥[Chakra for CSS](https://chakra-ui.com/)
+  - 🕶Basic HTML/JS/CSS
 
 - #### ⚙Backend: 
-  - [Docker](https://www.docker.com/)
-  - [MongoDB](https://www.mongodb.com/)
+  - 🐳[Docker](https://www.docker.com/)
+  - 🍃[MongoDB](https://www.mongodb.com/)
 
 - #### Other:
-  - Soldering, electrical engineering, 
-  - [Greenpower](https://www.greenpower.co.uk/) GreenCar Project 
-  - CAD experience
+  - ⚡Soldering, electrical engineering, 
+  - 🏎[Greenpower](https://www.greenpower.co.uk/) GreenCar Project 
+  - 💾CAD experience
