@@ -19,4 +19,4 @@
 - #### Other:
   - ⚡ Soldering, electrical engineering, 
   - 🏎 [Greenpower](https://www.greenpower.co.uk/) GreenCar Project 
-  - 💾 CAD experience
+  - 💾 [CAD experience](https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription)
