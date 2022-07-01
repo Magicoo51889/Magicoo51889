@@ -5,7 +5,7 @@
 </div>
 
 <div id='profile_views' align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Magicoo51889&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div id='language_stats' align="center">
