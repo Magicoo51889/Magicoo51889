@@ -27,6 +27,7 @@
   - ⌨ [Typescript](https://www.typescriptlang.org/)/[Javascript](https://www.javascript.com/)
   - 🖥 [Chakra for CSS](https://chakra-ui.com/)
   - 🕶 Basic HTML/JS/CSS
+  - 🔗 [Windows Presentation Format](https://docs.microsoft.com/en-us/visualstudio/designers/getting-started-with-wpf?view=vs-2022)
 
 - #### ⚙Backend: 
   - 🐳 [Docker](https://www.docker.com/)
@@ -34,6 +35,7 @@
   - 📦 [Webpack](https://webpack.js.org/)
   - ⌨ [Typescript](https://www.typescriptlang.org/)/[Javascript](https://www.javascript.com/)
   - 📋 Object Orientated Programming ([Passed Linkedin Skill Assessment](https://www.linkedin.com/posts/jack-f-b46175214_linkedinskillassessment-activity-6953682320088289280-RCd0?utm_source=linkedin_share&utm_medium=member_desktop_web) (Acheived top 15% of people))
+  - 🔩 [C Sharp](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 - #### Other:
   - ⚡ Soldering, electrical engineering, 
