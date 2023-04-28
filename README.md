@@ -8,10 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=Magicoo51889&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div id='language_stats' align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magicoo51889&layout=compact&theme=github_dark&hide_border=true")/>
-</div>
-
 
 ### Hi there 👋
 17, pursuing a wide knowledge of anything tech :)
