@@ -10,7 +10,7 @@
 
 
 ### Hi there 👋
-17, pursuing a wide knowledge of anything tech :)
+18, pursuing a wide knowledge of anything tech :)
 
 -   One of my biggest project to date is my Phaser Space Invader game that I made for my Computer Science A-Level. It's a 2D Space Game using [Webpack](https://webpack.js.org/) and [Typescript](https://www.typescriptlang.org/), which allows for modern programming practices and faster, better structured development of the game. 
 -   I am learing how to use [React](https://reactjs.org/) with Typescript to be able to make my own [website](https://jack-foot-website.vercel.app/) from scratch, and will be hosting it via [Vercel](https://vercel.com/home). I chose Typescript as it is type safe and allows for easier development of my website compared to javascript (though they are very similar). I am using TSX components for any reapeating code and this creates a higher performing and more optimised website that doesn't contain lots of repeat code. 
